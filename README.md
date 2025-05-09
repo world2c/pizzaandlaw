@@ -19,3 +19,8 @@
 
 <font color="#00b050">Part.6 Imagination</font>
 绿色是生命力。
+
+
+[Part.3 Conversations](https://world2c.github.io/pizzaandlaw/Part.3%20Conversations)
+
+[Part.3 Conversations](https://world2c.github.io/pizzaandlaw/Part.3%20Conversations.html)
