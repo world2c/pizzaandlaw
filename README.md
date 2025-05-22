@@ -1,9 +1,11 @@
 # Alles ist gut!
 
 <font color="#ffc000">Happy Birthday!🥳</font>
-黄色会让我想起你\n
-你有黄色的帽子、黄色的外套、黄色的裤子、黄色的背包、黄色的箱子\n
-这些回忆也都沾染上了黄色的色彩
+黄色会让我想起你
+
+你有黄色的帽子、黄色的外套、黄色的裤子、黄色的背包、黄色的箱子
+
+与你有关的记忆也都沾染上了金黄的色彩
 
 
 [Part.1 Echoes](https://world2c.github.io/pizzaandlaw/Part.1%20Echoes.html)
