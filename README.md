@@ -9,7 +9,7 @@
 
 [Part.2 Read, Watch, Play](https://world2c.github.io/pizzaandlaw/Part.2%20Read%2C%20Watch%2C%20Play.html)
 
-[Part.3 Conversation](https://world2c.github.io/pizzaandlaw/Part.3%20Conversation.html)
+[Part.3 Conversation](https://world2c.github.io/pizzaandlaw/Part.3%20Conversations.html)
 
 Part.4 Confession
 
