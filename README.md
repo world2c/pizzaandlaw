@@ -16,11 +16,10 @@
 我想用计算机的语言、学术的语言、文学的语言向你表达爱的语言。  
 这是KK的独特方式。  
   
-  
----
-  
+    
 Part.4 Confession和Part.5 Redemption最后没有放上文件，但依然保留了原来的标题。
   
+  ---
   
 [Part.1 Echoes](https://world2c.github.io/pizzaandlaw/Part.1%20Echoes.html)  
   
