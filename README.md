@@ -2,13 +2,6 @@
    
 **Happy Birthday!🥳**  
   
-  ---
-  
-<font color="#ffc000">黄色会让我想起你</font>   
-<font color="#ffc000">你有黄色的帽子、黄色的外套、黄色的裤子、黄色的背包、黄色的箱子</font>   
-<font color="#ffc000">与你有关的记忆也都沾染上了金黄的色彩</font>   
-
-  ---
   
 [Part.1 Echoes](https://world2c.github.io/pizzaandlaw/Part.1%20Echoes.html)  
   
