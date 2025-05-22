@@ -1,28 +1,19 @@
 # Alles ist gut!
 
-
-<font color="#ffc000">Part.1 Echoes</font>
-橙黄色会让我想起你，你有黄色的帽子、黄色的外套、黄色的裤子。
+<font color="#ffc000">Happy Birthday!🥳</font>
+黄色会让我想起你，你有黄色的帽子、黄色的外套、黄色的裤子、黄色的箱子。
 这些回忆也都沾染上了黄色的色彩。
 
-<font color="#ff0000">Part.2 Read, Watch, Play</font>
-快乐是热烈的。
 
-<font color="#0070c0">Part.3 Conversations</font>
-年轻是躁动的，却又被文字安抚。
+[Part.1 Echoes](https://world2c.github.io/pizzaandlaw/Part.1%20Echoes.html)
 
-<font color="#00b0f0">Part.4 Confession</font>
-蓝色是宽恕。
-
-<font color="#4bacc6">Part.5 Redemption</font>
-顿悟是被唤醒的。
-
-<font color="#00b050">Part.6 Imagination</font>
-绿色是生命力。
-
-
-[Part.3 Conversations](https://world2c.github.io/pizzaandlaw/Part.3%20Conversations.md)
-
-[Part.3 Conversations](https://world2c.github.io/pizzaandlaw/Part.3%20Conversations.html)
+[Part.2 Read, Watch, Play](https://world2c.github.io/pizzaandlaw/Part.2%20Read%2C%20Watch%2C%20Play.html)
 
 [Part.3 Conversation](https://world2c.github.io/pizzaandlaw/Part.3%20Conversation.html)
+
+Part.4 Confession
+
+Part.5 Redemption
+
+[Part.6 Imagination](https://world2c.github.io/pizzaandlaw/Part.6%20Imagination.html)
+
