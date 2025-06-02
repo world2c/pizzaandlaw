@@ -11,13 +11,9 @@
   
   
 三月份的时候开始自学了Python，突然想到可以用GitHub简单地搭建一个网站。所以就有了[Alles ist gut!](https://world2c.github.io/pizzaandlaw/)。  
-（过一段时间我会关闭这个网站，为了能让你看到我把它暂时从private转成public了，虽然也不会有其他人能找到这个网站了吧哈哈。）  
-我会把文稿发给你。完整的文稿之间存在可以相互指引的链接。  
-我想用计算机的语言、学术的语言、文学的语言向你表达爱的语言。  
-这是KK的独特方式。  
-  
     
 Part.4 Confession和Part.5 Redemption最后没有放上文件，但依然保留了原来的标题。
+（update：出于privacy考虑，以下链接均已失效，不过文稿已经发送过去了）
   
   ---
   
