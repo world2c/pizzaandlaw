@@ -12,8 +12,9 @@
   
 三月份的时候开始自学了Python，突然想到可以用GitHub简单地搭建一个网站。所以就有了[Alles ist gut!](https://world2c.github.io/pizzaandlaw/)。  
     
-Part.4 Confession和Part.5 Redemption最后没有放上文件，但依然保留了原来的标题。
-（update：出于privacy考虑，以下链接均已失效，不过文稿已经发送过去了）
+Part.4 Confession和Part.5 Redemption最后没有放上文件，但依然保留了原来的标题。  
+  
+update：出于privacy考虑，以下链接均已失效，不过文稿在此之前已经发送过去了。  
   
   ---
   
